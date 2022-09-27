@@ -1,0 +1,4 @@
+com/gonoter/flutter_beep/FlutterBeepPlugin.java
+ com.gonoter.flutter_beep.FlutterBeepPlugin
+com/gonoter/flutter_beep/BuildConfig.java
+ com.gonoter.flutter_beep.BuildConfig

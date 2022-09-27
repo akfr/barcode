@@ -1,0 +1,167 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.jomar_barcode"
+4    android:versionCode="11"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="30" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\debug\AndroidManifest.xml:6:22-64
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:4:6-82
+15-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:4:23-79
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:5:2-77
+16-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:5:19-74
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->[:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-65
+17-->[:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-62
+18
+19    <uses-feature android:name="android.hardware.camera" />
+19-->[:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-60
+19-->[:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:11:19-57
+20
+21    <uses-permission android:name="android.permission.FLASHLIGHT" />
+21-->[:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-69
+21-->[:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-66
+22    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+22-->[:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-83
+22-->[:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-80
+23
+24    <application
+24-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:7:4-44:19
+25        android:name="androidx.multidex.MultiDexApplication"
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.6.0] C:\Users\fahou\.gradle\caches\transforms-3\d118b71b31ac2018b0687bad4db3eb97\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/launcher_icon"
+28-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:9:9-45
+29        android:label="Gestion Inventaire BNI"
+29-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:8:9-47
+30        android:largeHeap="true"
+30-->[:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-33
+31        android:theme="@style/Theme.AppCompat.NoActionBar" >
+31-->[:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-59
+32        <activity
+32-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:10:9-38:20
+33            android:name="com.example.jomar_barcode.MainActivity"
+33-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:11:13-41
+34            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+34-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:14:13-163
+35            android:hardwareAccelerated="true"
+35-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:15:13-47
+36            android:launchMode="singleTop"
+36-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:12:13-43
+37            android:theme="@style/LaunchTheme"
+37-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:13:13-47
+38            android:windowSoftInputMode="adjustResize" >
+38-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:16:13-55
+39
+40            <!--
+41                 Specifies an Android theme to apply to this Activity as soon as
+42                 the Android process has started. This theme is visible to the user
+43                 while the Flutter UI initializes. After that, this theme continues
+44                 to determine the Window background behind the Flutter UI.
+45            -->
+46            <meta-data
+46-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:21:13-24:17
+47                android:name="io.flutter.embedding.android.NormalTheme"
+47-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:22:15-70
+48                android:resource="@style/NormalTheme" />
+48-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:23:15-52
+49            <!--
+50                 Displays an Android View that continues showing the launch screen
+51                 Drawable until Flutter paints its first frame, then this splash
+52                 screen fades out. A splash screen is useful to avoid any visual
+53                 gap between the end of Android's launch screen and the painting of
+54                 Flutter's first frame.
+55            -->
+56            <meta-data
+56-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:30:13-33:17
+57                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+57-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:31:15-79
+58                android:resource="@drawable/launch_background" />
+58-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:32:15-61
+59
+60            <intent-filter>
+60-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:34:13-37:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:35:17-68
+61-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:35:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:36:17-76
+63-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:36:27-74
+64            </intent-filter>
+65        </activity>
+66        <!--
+67             Don't delete the meta-data below.
+68             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+69        -->
+70        <meta-data
+70-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:41:9-43:33
+71            android:name="flutterEmbedding"
+71-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:42:13-44
+72            android:value="2" />
+72-->C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:43:13-30
+73
+74        <activity android:name="com.amolg.flutterbarcodescanner.BarcodeCaptureActivity" />
+74-->[:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-91
+74-->[:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:18:19-88
+75
+76        <provider
+76-->[:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-21:20
+77            android:name="com.crazecoder.openfile.FileProvider"
+77-->[:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-64
+78            android:authorities="com.example.jomar_barcode.fileProvider.com.crazecoder.openfile"
+78-->[:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-88
+79            android:exported="false"
+79-->[:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-37
+80            android:grantUriPermissions="true" >
+80-->[:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-47
+81            <meta-data
+81-->[:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:53
+82                android:name="android.support.FILE_PROVIDER_PATHS"
+82-->[:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-67
+83                android:resource="@xml/filepaths" />
+83-->[:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-50
+84        </provider>
+85
+86        <uses-library
+86-->[androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+87            android:name="androidx.window.extensions"
+87-->[androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+88            android:required="false" />
+88-->[androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+89        <uses-library
+89-->[androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+90            android:name="androidx.window.sidecar"
+90-->[androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+91            android:required="false" />
+91-->[androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+92
+93        <activity
+93-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\69c838aaecfc0b6ee9ed1b880eb2208b\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:23:9-26:75
+94            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+94-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\69c838aaecfc0b6ee9ed1b880eb2208b\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:24:13-79
+95            android:exported="false"
+95-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\69c838aaecfc0b6ee9ed1b880eb2208b\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:25:13-37
+96            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+96-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\69c838aaecfc0b6ee9ed1b880eb2208b\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:26:13-72
+97
+98        <meta-data
+98-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\e076d543e9d5f9bfda524f1b12d09b35\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
+99            android:name="com.google.android.gms.version"
+99-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\e076d543e9d5f9bfda524f1b12d09b35\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:24:13-58
+100            android:value="@integer/google_play_services_version" />
+100-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\e076d543e9d5f9bfda524f1b12d09b35\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:25:13-66
+101    </application>
+102
+103</manifest>

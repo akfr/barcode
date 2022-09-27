@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/jomar_barcode/BuildConfig.java
+ com.example.jomar_barcode.BuildConfig

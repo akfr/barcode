@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\fahou\\sources\\spikes\\jomar_barcode\\build\\flutter_barcode_scanner\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\fahou\\.gradle\\caches\\transforms-3\\89ef9f58ed117c6930948f2ea196b92e\\transformed\\appcompat-1.2.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\fahou\\sources\\spikes\\jomar_barcode\\build\\flutter_barcode_scanner\\intermediates\\merged_res\\release\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\fahou\\.gradle\\caches\\transforms-3\\89ef9f58ed117c6930948f2ea196b92e\\transformed\\appcompat-1.2.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,367 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-21:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_beep] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_beep\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-24:12
+MERGED from [:sqflite] C:\Users\fahou\sources\spikes\jomar_barcode\build\sqflite\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] C:\Users\fahou\sources\spikes\jomar_barcode\build\fluttertoast\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\Users\fahou\sources\spikes\jomar_barcode\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\b62add7f95f0112fad425d51e287582b\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\fahou\.gradle\caches\transforms-3\dd75c80470ae46c1fb7af29130a7e2fd\transformed\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\fahou\.gradle\caches\transforms-3\106b8e66e2d715624737e7c39bf91445\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\fahou\.gradle\caches\transforms-3\5ed35efea66a6f44b1ac538c7e0f1255\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\fahou\.gradle\caches\transforms-3\89ef9f58ed117c6930948f2ea196b92e\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\73bbf3c29edde231bf14c74ef9d0829d\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\d26ba9adc3b38ed9d7e4a558b7851aed\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\fahou\.gradle\caches\transforms-3\cdbcf59f56780b6aa300ca0e8cbe04b8\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\fahou\.gradle\caches\transforms-3\52034a8b303d892a851e61b86453abff\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\fahou\.gradle\caches\transforms-3\c5330b0d04b48ed512c62a6b9a398fcf\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\fahou\.gradle\caches\transforms-3\1299b9d51deb2fa08d99c4567bd33eb7\transformed\jetified-play-services-flags-17.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\fahou\.gradle\caches\transforms-3\95776a545ac9326d4ab0596810c023de\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\69c838aaecfc0b6ee9ed1b880eb2208b\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\fahou\.gradle\caches\transforms-3\70ec80431e3ab51001c132551a6722e4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\e076d543e9d5f9bfda524f1b12d09b35\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\dc86751c8f901ca99323006ad5a9c78e\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\4db32597c24fefa0550613ec9daf26fa\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\9b9ae85d96eed0431da99a65c4a1357c\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\39a2580fbd89980f8284250714811a18\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\875e07c7d9c2c5e5ee4f174382f5fb4a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\fahou\.gradle\caches\transforms-3\7a0e174ffc7c5c9dee0733437c7a642c\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\152d49ca0ffd8aef062927607156df04\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\9c1ecd47c748bcc4d4580aed76dd3b63\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\fahou\.gradle\caches\transforms-3\adc6051786723eeadbe074ddd9abacc9\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\7d2126bdc0e5aeb07de7272ec6fdbb9d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\1fa7b9a9752695809aa79ef0b4c46ece\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\3c7486c136060a01c9b83dc82182d0f7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\fc85e0862785e4db3c988253fd6670c7\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\ee7502ad15f02b8148759f56eaf53519\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\275efded74f3d037c878d3501b2a0deb\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\34c79bf5fb282a36d73dd173b078f16a\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\00b8a9be878480b18f17724a87ab73b9\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\0ffaec5c680584d03b48205753996d10\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\038493934aa56762233a04c8e0f37d7d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\fahou\.gradle\caches\transforms-3\d118b71b31ac2018b0687bad4db3eb97\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\fahou\.gradle\caches\transforms-3\4c203d145c8c31062ede2ac31332677d\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\7f70d51a985c5ae8cdd818193b279db5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fahou\.gradle\caches\transforms-3\0f4f2e559dc26b88dc6e2424ee13bd54\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fahou\.gradle\caches\transforms-3\327132ef1f79b710019ff45e274495dc\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\2e6e76fa303d955270a6d9b01c530e48\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\a30be6d3f3435594ce1a7cda49abdcec\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\1570ed4dbb2dac98e9eda228791f219b\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fahou\.gradle\caches\transforms-3\168883ed1285cb0096a45b45490c6280\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fahou\.gradle\caches\transforms-3\617502ce39c250fe34e8d466da095cd3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\4590003ad923b4a0e4bfa16b2520ca0c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\70fc9ef1ddd2bb5abafa17b531315bea\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\0e7d66eb960692fe6d536889f328a109\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\1c9eea707e66dc0c6a0596ce51a4fd57\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fahou\.gradle\caches\transforms-3\999015059a41f8238692b95961a2056a\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\d6ccf0fe300df96f2ae39f040e0f96e3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:1:1-45:12
+	package
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:4:6-82
+	android:name
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:4:23-79
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:5:2-77
+MERGED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-80
+MERGED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:5:19-74
+application
+ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:7:4-44:19
+MERGED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:15:5-19:19
+MERGED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:15:5-19:19
+MERGED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-22:19
+MERGED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-22:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\fahou\.gradle\caches\transforms-3\106b8e66e2d715624737e7c39bf91445\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\fahou\.gradle\caches\transforms-3\106b8e66e2d715624737e7c39bf91445\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\fahou\.gradle\caches\transforms-3\5ed35efea66a6f44b1ac538c7e0f1255\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\fahou\.gradle\caches\transforms-3\5ed35efea66a6f44b1ac538c7e0f1255\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\fahou\.gradle\caches\transforms-3\cdbcf59f56780b6aa300ca0e8cbe04b8\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\fahou\.gradle\caches\transforms-3\cdbcf59f56780b6aa300ca0e8cbe04b8\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\fahou\.gradle\caches\transforms-3\52034a8b303d892a851e61b86453abff\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\fahou\.gradle\caches\transforms-3\52034a8b303d892a851e61b86453abff\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\fahou\.gradle\caches\transforms-3\c5330b0d04b48ed512c62a6b9a398fcf\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\fahou\.gradle\caches\transforms-3\c5330b0d04b48ed512c62a6b9a398fcf\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\fahou\.gradle\caches\transforms-3\95776a545ac9326d4ab0596810c023de\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\fahou\.gradle\caches\transforms-3\95776a545ac9326d4ab0596810c023de\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\69c838aaecfc0b6ee9ed1b880eb2208b\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\69c838aaecfc0b6ee9ed1b880eb2208b\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\fahou\.gradle\caches\transforms-3\70ec80431e3ab51001c132551a6722e4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\fahou\.gradle\caches\transforms-3\70ec80431e3ab51001c132551a6722e4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\e076d543e9d5f9bfda524f1b12d09b35\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\e076d543e9d5f9bfda524f1b12d09b35\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\fahou\.gradle\caches\transforms-3\d118b71b31ac2018b0687bad4db3eb97\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\fahou\.gradle\caches\transforms-3\d118b71b31ac2018b0687bad4db3eb97\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fahou\.gradle\caches\transforms-3\617502ce39c250fe34e8d466da095cd3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fahou\.gradle\caches\transforms-3\617502ce39c250fe34e8d466da095cd3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\fahou\.gradle\caches\transforms-3\d118b71b31ac2018b0687bad4db3eb97\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:8:9-47
+	android:largeHeap
+		ADDED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-33
+	android:icon
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:9:9-45
+	android:theme
+		ADDED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-59
+activity#com.example.jomar_barcode.MainActivity
+ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:10:9-38:20
+	android:launchMode
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:12:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:15:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:16:13-55
+	android:configChanges
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:14:13-163
+	android:theme
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:13:13-47
+	android:name
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:11:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:21:13-24:17
+	android:resource
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:23:15-52
+	android:name
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:22:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:30:13-33:17
+	android:resource
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:32:15-61
+	android:name
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:31:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:36:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:41:9-43:33
+	android:value
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:43:13-30
+	android:name
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml:42:13-44
+uses-sdk
+INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_beep] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_beep\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_beep] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_beep\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-44
+MERGED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-44
+MERGED from [:sqflite] C:\Users\fahou\sources\spikes\jomar_barcode\build\sqflite\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\fahou\sources\spikes\jomar_barcode\build\sqflite\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\fahou\sources\spikes\jomar_barcode\build\fluttertoast\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\fahou\sources\spikes\jomar_barcode\build\fluttertoast\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\fahou\sources\spikes\jomar_barcode\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\fahou\sources\spikes\jomar_barcode\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\b62add7f95f0112fad425d51e287582b\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\b62add7f95f0112fad425d51e287582b\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\fahou\.gradle\caches\transforms-3\dd75c80470ae46c1fb7af29130a7e2fd\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\fahou\.gradle\caches\transforms-3\dd75c80470ae46c1fb7af29130a7e2fd\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\fahou\.gradle\caches\transforms-3\106b8e66e2d715624737e7c39bf91445\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\fahou\.gradle\caches\transforms-3\106b8e66e2d715624737e7c39bf91445\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\fahou\.gradle\caches\transforms-3\5ed35efea66a6f44b1ac538c7e0f1255\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\fahou\.gradle\caches\transforms-3\5ed35efea66a6f44b1ac538c7e0f1255\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\fahou\.gradle\caches\transforms-3\89ef9f58ed117c6930948f2ea196b92e\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\fahou\.gradle\caches\transforms-3\89ef9f58ed117c6930948f2ea196b92e\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\73bbf3c29edde231bf14c74ef9d0829d\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\73bbf3c29edde231bf14c74ef9d0829d\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\d26ba9adc3b38ed9d7e4a558b7851aed\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\d26ba9adc3b38ed9d7e4a558b7851aed\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\fahou\.gradle\caches\transforms-3\cdbcf59f56780b6aa300ca0e8cbe04b8\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\fahou\.gradle\caches\transforms-3\cdbcf59f56780b6aa300ca0e8cbe04b8\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\fahou\.gradle\caches\transforms-3\52034a8b303d892a851e61b86453abff\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\fahou\.gradle\caches\transforms-3\52034a8b303d892a851e61b86453abff\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\fahou\.gradle\caches\transforms-3\c5330b0d04b48ed512c62a6b9a398fcf\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\fahou\.gradle\caches\transforms-3\c5330b0d04b48ed512c62a6b9a398fcf\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\fahou\.gradle\caches\transforms-3\1299b9d51deb2fa08d99c4567bd33eb7\transformed\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\fahou\.gradle\caches\transforms-3\1299b9d51deb2fa08d99c4567bd33eb7\transformed\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\fahou\.gradle\caches\transforms-3\95776a545ac9326d4ab0596810c023de\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\fahou\.gradle\caches\transforms-3\95776a545ac9326d4ab0596810c023de\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\69c838aaecfc0b6ee9ed1b880eb2208b\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\69c838aaecfc0b6ee9ed1b880eb2208b\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\fahou\.gradle\caches\transforms-3\70ec80431e3ab51001c132551a6722e4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\fahou\.gradle\caches\transforms-3\70ec80431e3ab51001c132551a6722e4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\e076d543e9d5f9bfda524f1b12d09b35\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\e076d543e9d5f9bfda524f1b12d09b35\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\dc86751c8f901ca99323006ad5a9c78e\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\dc86751c8f901ca99323006ad5a9c78e\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\4db32597c24fefa0550613ec9daf26fa\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\4db32597c24fefa0550613ec9daf26fa\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\9b9ae85d96eed0431da99a65c4a1357c\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\9b9ae85d96eed0431da99a65c4a1357c\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\39a2580fbd89980f8284250714811a18\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\39a2580fbd89980f8284250714811a18\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\875e07c7d9c2c5e5ee4f174382f5fb4a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\875e07c7d9c2c5e5ee4f174382f5fb4a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\fahou\.gradle\caches\transforms-3\7a0e174ffc7c5c9dee0733437c7a642c\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\fahou\.gradle\caches\transforms-3\7a0e174ffc7c5c9dee0733437c7a642c\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\152d49ca0ffd8aef062927607156df04\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\152d49ca0ffd8aef062927607156df04\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\9c1ecd47c748bcc4d4580aed76dd3b63\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\9c1ecd47c748bcc4d4580aed76dd3b63\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\fahou\.gradle\caches\transforms-3\adc6051786723eeadbe074ddd9abacc9\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\fahou\.gradle\caches\transforms-3\adc6051786723eeadbe074ddd9abacc9\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\7d2126bdc0e5aeb07de7272ec6fdbb9d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\7d2126bdc0e5aeb07de7272ec6fdbb9d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\1fa7b9a9752695809aa79ef0b4c46ece\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\1fa7b9a9752695809aa79ef0b4c46ece\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\3c7486c136060a01c9b83dc82182d0f7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\3c7486c136060a01c9b83dc82182d0f7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\fc85e0862785e4db3c988253fd6670c7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\fc85e0862785e4db3c988253fd6670c7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\ee7502ad15f02b8148759f56eaf53519\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\ee7502ad15f02b8148759f56eaf53519\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\275efded74f3d037c878d3501b2a0deb\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\275efded74f3d037c878d3501b2a0deb\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\34c79bf5fb282a36d73dd173b078f16a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\34c79bf5fb282a36d73dd173b078f16a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\00b8a9be878480b18f17724a87ab73b9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\00b8a9be878480b18f17724a87ab73b9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\0ffaec5c680584d03b48205753996d10\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\0ffaec5c680584d03b48205753996d10\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\038493934aa56762233a04c8e0f37d7d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\038493934aa56762233a04c8e0f37d7d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\fahou\.gradle\caches\transforms-3\d118b71b31ac2018b0687bad4db3eb97\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\fahou\.gradle\caches\transforms-3\d118b71b31ac2018b0687bad4db3eb97\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\fahou\.gradle\caches\transforms-3\4c203d145c8c31062ede2ac31332677d\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\fahou\.gradle\caches\transforms-3\4c203d145c8c31062ede2ac31332677d\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\7f70d51a985c5ae8cdd818193b279db5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\7f70d51a985c5ae8cdd818193b279db5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fahou\.gradle\caches\transforms-3\0f4f2e559dc26b88dc6e2424ee13bd54\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fahou\.gradle\caches\transforms-3\0f4f2e559dc26b88dc6e2424ee13bd54\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fahou\.gradle\caches\transforms-3\327132ef1f79b710019ff45e274495dc\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fahou\.gradle\caches\transforms-3\327132ef1f79b710019ff45e274495dc\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\2e6e76fa303d955270a6d9b01c530e48\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\2e6e76fa303d955270a6d9b01c530e48\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\a30be6d3f3435594ce1a7cda49abdcec\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\a30be6d3f3435594ce1a7cda49abdcec\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\1570ed4dbb2dac98e9eda228791f219b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\1570ed4dbb2dac98e9eda228791f219b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fahou\.gradle\caches\transforms-3\168883ed1285cb0096a45b45490c6280\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fahou\.gradle\caches\transforms-3\168883ed1285cb0096a45b45490c6280\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fahou\.gradle\caches\transforms-3\617502ce39c250fe34e8d466da095cd3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fahou\.gradle\caches\transforms-3\617502ce39c250fe34e8d466da095cd3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\4590003ad923b4a0e4bfa16b2520ca0c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\4590003ad923b4a0e4bfa16b2520ca0c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\70fc9ef1ddd2bb5abafa17b531315bea\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\70fc9ef1ddd2bb5abafa17b531315bea\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\0e7d66eb960692fe6d536889f328a109\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\0e7d66eb960692fe6d536889f328a109\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\1c9eea707e66dc0c6a0596ce51a4fd57\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fahou\.gradle\caches\transforms-3\1c9eea707e66dc0c6a0596ce51a4fd57\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fahou\.gradle\caches\transforms-3\999015059a41f8238692b95961a2056a\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fahou\.gradle\caches\transforms-3\999015059a41f8238692b95961a2056a\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\d6ccf0fe300df96f2ae39f040e0f96e3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\fahou\.gradle\caches\transforms-3\d6ccf0fe300df96f2ae39f040e0f96e3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fahou\sources\spikes\jomar_barcode\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:11:19-57
+uses-permission#android.permission.FLASHLIGHT
+ADDED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-69
+	android:name
+		ADDED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:13:22-66
+activity#com.amolg.flutterbarcodescanner.BarcodeCaptureActivity
+ADDED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-91
+	android:name
+		ADDED from [:flutter_barcode_scanner] C:\Users\fahou\sources\spikes\jomar_barcode\build\flutter_barcode_scanner\intermediates\merged_manifest\release\AndroidManifest.xml:18:19-88
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:8:5-83
+	android:name
+		ADDED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:8:22-80
+provider#com.crazecoder.openfile.FileProvider
+ADDED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-21:20
+	android:grantUriPermissions
+		ADDED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-88
+	android:exported
+		ADDED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-37
+	tools:replace
+		ADDED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-48
+	android:name
+		ADDED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-64
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-20:53
+	android:resource
+		ADDED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:20:17-50
+	android:name
+		ADDED from [:open_file] C:\Users\fahou\sources\spikes\jomar_barcode\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:19:17-67
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\fahou\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\69c838aaecfc0b6ee9ed1b880eb2208b\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\69c838aaecfc0b6ee9ed1b880eb2208b\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\69c838aaecfc0b6ee9ed1b880eb2208b\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\69c838aaecfc0b6ee9ed1b880eb2208b\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\e076d543e9d5f9bfda524f1b12d09b35\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\e076d543e9d5f9bfda524f1b12d09b35\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\fahou\.gradle\caches\transforms-3\e076d543e9d5f9bfda524f1b12d09b35\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:24:13-58
